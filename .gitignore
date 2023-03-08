@@ -1,5 +1,5 @@
-**/*.jar
 */
+**/*.jar
 *.json
 eula.txt
 help.yml

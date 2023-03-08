@@ -6,5 +6,10 @@ logs/
 versions/
 world*/
 .console_history
+banned-ips.json
+banned-players.json
+eula.txt
 help.yml
+usercache.json
 version_history.json
+whitelist.json

@@ -17,3 +17,6 @@ echo "eula=true" > eula.txt
 chmod +x *.sh
 
 # TODO Download plugins and datapacks somehow
+mkdir -p world/datapacks
+mkdir -p world_nether
+mkdir -p world_the_end

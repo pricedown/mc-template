@@ -1,0 +1,10 @@
+**/*.jar
+cache/
+crash-reports/
+libraries/
+logs/
+versions/
+world*/
+.console_history
+help.yml
+version_history.json

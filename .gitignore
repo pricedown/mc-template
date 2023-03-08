@@ -1,7 +1,10 @@
-!(world*)/
-world*/!(datapacks)
+/*/
 **/*.jar
 *.json
 .console_history
 eula.txt
 help.yml
+
+!world*/
+world*/*
+!world*/datapacks/

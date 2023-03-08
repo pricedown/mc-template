@@ -1,4 +1,5 @@
-*/
+!(world*)/
+world*/!(datapacks)
 **/*.jar
 *.json
 .console_history

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.19.84.144
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1677155560207
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677155704799
+  login: 1677154236390
+money: '0'
+last-account-name: skissue
+logoutlocation:
+  world: 6a0d0670-1ed6-4dc2-ba07-1d90d6c2fe24
+  world-name: world
+  x: 24.798035984748708
+  y: 85.0
+  z: 59.90269322170561
+  yaw: 164.40016174316406
+  pitch: 80.25000762939453
+lastlocation:
+  world: 6a0d0670-1ed6-4dc2-ba07-1d90d6c2fe24
+  world-name: world
+  x: 25.612330389221817
+  y: 64.0
+  z: 60.97554278717954
+  yaw: 142.80015563964844
+  pitch: 90.0

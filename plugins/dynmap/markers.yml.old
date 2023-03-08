@@ -1,0 +1,28 @@
+%YAML 1.1
+---
+isSafe: true
+icons: {
+    }
+sets:
+    markers:
+        hide: false
+        circles: {
+            }
+        deficon: default
+        areas: {
+            }
+        label: Markers
+        markers:
+            _sign_world_35_68_43:
+                world: world
+                markup: true
+                x: 35.5
+                icon: compass
+                y: 68.5
+                z: 43.5
+                label: shitball
+        lines: {
+            }
+        layerprio: 0
+playersets: {
+    }

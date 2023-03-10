@@ -20,3 +20,5 @@ chmod +x *.sh
 mkdir -p world/datapacks
 mkdir -p world_nether
 mkdir -p world_the_end
+
+wget "https://static1.squarespace.com/static/6240c1f3e10b50416d969a84/t/63a7140d4527106aea370915/1671894030145/Terralith_1.19.x_v2.3.5.zip" -O world/datapacks/Terralith.zip

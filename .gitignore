@@ -1,10 +1,24 @@
 /*/
+
 **/*.jar
 *.json
+**/*.zip
 .console_history
 eula.txt
+clean.sh
 help.yml
+plugins/EssentialsDiscord/config.yml
 
+# World files
 !world*/
 world*/*
 !world*/datapacks/
+
+# Plugin configs
+!plugins/
+!plugins/*/
+plugins/*/**
+!plugins/*/config.yml
+!plugins/dynmap/configuration.txt
+!plugins/Spartan/checks.yml
+!plugins/Spartan/settings.yml

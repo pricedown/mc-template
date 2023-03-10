@@ -1,0 +1,222 @@
+XRay:
+  enabled: false
+  silent: true
+  name: XRay
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+Exploits:
+  enabled: false
+  silent: true
+  name: Exploits
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  punish: true
+  check_head_position: true
+EntityMove:
+  enabled: false
+  silent: true
+  name: EntityMove
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  punish: true
+NoSwing:
+  enabled: false
+  silent: true
+  name: NoSwing
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  punish: true
+  check_damage: true
+IrregularMovements:
+  enabled: false
+  silent: true
+  name: IrregularMovements
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  punish: true
+  limit_server_flying: false
+  step_limit_in_blocks: 0.6625
+  check_hopping: true
+  check_jumping: true
+  check_falling: true
+  check_upwards: true
+ImpossibleActions:
+  enabled: false
+  silent: true
+  name: ImpossibleActions
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  punish: true
+ItemDrops:
+  enabled: false
+  silent: true
+  name: ItemDrops
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  punish: true
+AutoRespawn:
+  enabled: false
+  name: AutoRespawn
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  punish: true
+InventoryClicks:
+  enabled: false
+  silent: true
+  name: InventoryClicks
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  punish: true
+NoSlowdown:
+  enabled: false
+  silent: true
+  name: NoSlowdown
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  punish: true
+  check_item_usage: true
+  check_packets: true
+Criticals:
+  enabled: false
+  silent: true
+  name: Criticals
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  punish: true
+  check_position: true
+  check_mini_jump: true
+  check_location: true
+GhostHand:
+  enabled: false
+  silent: true
+  name: GhostHand
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  punish: false
+BlockReach:
+  enabled: false
+  silent: true
+  name: BlockReach
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  punish: true
+FastBow:
+  enabled: false
+  silent: true
+  name: FastBow
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  punish: true
+FastClicks:
+  enabled: false
+  silent: true
+  name: FastClicks
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  punish: true
+  check_fight: true
+FastHeal:
+  enabled: false
+  silent: true
+  name: FastHeal
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  punish: true
+ImpossibleInventory:
+  enabled: false
+  silent: true
+  name: ImpossibleInventory
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  punish: true
+HitReach:
+  enabled: false
+  silent: true
+  name: HitReach
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  punish: true
+FastBreak:
+  enabled: false
+  silent: true
+  name: FastBreak
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  punish: true
+Speed:
+  enabled: true
+  silent: false
+  name: Speed
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  punish: true
+  check_water_speed: true
+  minimum_limit_in_blocks: 0.0
+  check_food_sprinting: true
+  check_omnidirectional_sprinting: true
+FastPlace:
+  enabled: false
+  silent: true
+  name: FastPlace
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  punish: true
+MorePackets:
+  enabled: false
+  silent: true
+  name: MorePackets
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  punish: true
+  check_instant_movements: true
+NoFall:
+  enabled: false
+  silent: true
+  name: NoFall
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  punish: true
+  check_ratio: true
+FastEat:
+  enabled: false
+  silent: true
+  name: FastEat
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  punish: true
+Velocity:
+  enabled: false
+  silent: true
+  name: Velocity
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  punish: true
+KillAura:
+  enabled: false
+  silent: true
+  name: KillAura
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  punish: true
+  detection:
+    entities: true
+  check_advantage: true
+  check_area: true
+  check_combined: true
+  check_aim_accuracy: true
+  check_move_accuracy: true
+  check_aim_consistency: true
+  check_hutbix: true
+  check_precision: true
+  check_angle: true
+  check_direction: true
+  check_modulo: true
+  check_rotations: true
+  check_stability: true
+  check_pitch: true
+  check_yaw: true
+  check_relative_aim: true
+  check_irregular: true
+  check_raytrace: true
+  check_distance: true
+  check_time: true
